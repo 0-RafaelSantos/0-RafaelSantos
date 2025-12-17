@@ -36,5 +36,4 @@ Software Engineer | Computer Graphics | Information Systems
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/0-RafaelSantos  
 - LinkedIn: https://www.linkedin.com/in/rafael-santos-734650325/
