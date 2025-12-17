@@ -1,16 +1,21 @@
-## Hi there 👋
+# Rafael Santos 👋
+Software Engineer | Computer Graphics | Information Systems
 
-<!--
-**0-RafaelSantos/0-RafaelSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering  
+🧠 Interests: Web Development, Backend Development, FullStack Development, AI  
+🛠️ Technologies: React, Angular, JavaScript, Three.js, WebGL, MongoDB, SQL, HTML, CSS, Git
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Featured Projects
+- **3D Logistics Warehouse**
+  Interactive 3D visualization using Three.js with multiple camera controls and custom objects.
+
+- **Where@ – Travel Planning System**
+  Web-based information system for travel planning, developed with HTML, CSS, JavaScript and SQL.
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/0-RafaelSantos  
+- LinkedIn: https://www.linkedin.com/in/rafael-santos-734650325/
